@@ -1,0 +1,5 @@
+Instalação do R (Linguagem)
+https://cran.r-project.org/
+
+R-Studio (SDK para a linguadem R)
+https://www.rstudio.com/products/rstudio/
