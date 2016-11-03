@@ -1,0 +1,12 @@
+# Rodrigo Luiz Barbosa
+# 02/11/2016
+# Programando em R
+
+#Install packages
+
+#Install 
+	install.packages("name_of_package")
+#Load 
+	library(name_of_package)	
+	require(name_of_package)
+

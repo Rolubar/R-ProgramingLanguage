@@ -1,0 +1,7 @@
+# Rodrigo Luiz Barbosa
+# 02/11/2016
+# Programando em R
+
+# Functions
+
+name_func <- function(arg1,arg2,... argn){command / return}

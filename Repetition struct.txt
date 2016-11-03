@@ -1,0 +1,28 @@
+# Rodrigo Luiz Barbosa
+# 02/11/2016
+# Programando em R
+
+# Repetition struct 
+
+for(i in 1:5){
+  print(i^2)
+}
+
+dados <- c(10,15,9,7,6,12,17)
+
+n <- length(dados)
+
+soma <- 0
+
+for (i in 1:n){
+  
+  soma <- dados[i] + soma
+  
+}
+
+media <- soma/n
+media
+
+dados <- c(10,15,9,7,6,12,17)
+
+mean(dados)
